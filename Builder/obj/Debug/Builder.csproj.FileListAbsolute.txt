@@ -5,3 +5,10 @@ E:\C#\Program\DesignModel\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cac
 E:\C#\Program\DesignModel\Builder\obj\Debug\Builder.exe
 E:\C#\Program\DesignModel\Builder\obj\Debug\Builder.pdb
 E:\C#\Program\DesignModel\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\Builder\bin\Debug\Builder.exe.config
+E:\MyPersonalProject\DesignModel\Builder\bin\Debug\Builder.exe
+E:\MyPersonalProject\DesignModel\Builder\bin\Debug\Builder.pdb
+E:\MyPersonalProject\DesignModel\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Builder\obj\Debug\Builder.exe
+E:\MyPersonalProject\DesignModel\Builder\obj\Debug\Builder.pdb

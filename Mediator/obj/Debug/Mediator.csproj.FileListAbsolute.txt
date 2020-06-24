@@ -4,3 +4,10 @@ E:\C#\Program\DesignModel\Mediator\bin\Debug\Mediator.pdb
 E:\C#\Program\DesignModel\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
 E:\C#\Program\DesignModel\Mediator\obj\Debug\Mediator.exe
 E:\C#\Program\DesignModel\Mediator\obj\Debug\Mediator.pdb
+E:\MyPersonalProject\DesignModel\Mediator\bin\Debug\Mediator.exe.config
+E:\MyPersonalProject\DesignModel\Mediator\bin\Debug\Mediator.exe
+E:\MyPersonalProject\DesignModel\Mediator\bin\Debug\Mediator.pdb
+E:\MyPersonalProject\DesignModel\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Mediator\obj\Debug\Mediator.exe
+E:\MyPersonalProject\DesignModel\Mediator\obj\Debug\Mediator.pdb

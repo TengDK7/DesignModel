@@ -4,3 +4,10 @@ E:\C#\Program\DesignModel\Flyweight\bin\Debug\Flyweight.pdb
 E:\C#\Program\DesignModel\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
 E:\C#\Program\DesignModel\Flyweight\obj\Debug\Flyweight.exe
 E:\C#\Program\DesignModel\Flyweight\obj\Debug\Flyweight.pdb
+E:\MyPersonalProject\DesignModel\Flyweight\bin\Debug\Flyweight.exe.config
+E:\MyPersonalProject\DesignModel\Flyweight\bin\Debug\Flyweight.exe
+E:\MyPersonalProject\DesignModel\Flyweight\bin\Debug\Flyweight.pdb
+E:\MyPersonalProject\DesignModel\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Flyweight\obj\Debug\Flyweight.exe
+E:\MyPersonalProject\DesignModel\Flyweight\obj\Debug\Flyweight.pdb

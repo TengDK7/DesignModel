@@ -5,3 +5,10 @@ E:\C#\Program\DesignModel\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
 E:\C#\Program\DesignModel\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
 E:\C#\Program\DesignModel\Bridge\obj\Debug\Bridge.exe
 E:\C#\Program\DesignModel\Bridge\obj\Debug\Bridge.pdb
+E:\MyPersonalProject\DesignModel\Bridge\bin\Debug\Bridge.exe.config
+E:\MyPersonalProject\DesignModel\Bridge\bin\Debug\Bridge.exe
+E:\MyPersonalProject\DesignModel\Bridge\bin\Debug\Bridge.pdb
+E:\MyPersonalProject\DesignModel\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Bridge\obj\Debug\Bridge.exe
+E:\MyPersonalProject\DesignModel\Bridge\obj\Debug\Bridge.pdb

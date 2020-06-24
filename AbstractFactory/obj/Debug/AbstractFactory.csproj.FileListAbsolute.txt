@@ -5,3 +5,10 @@ E:\C#\Program\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreC
 E:\C#\Program\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.exe
 E:\C#\Program\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.pdb
 E:\C#\Program\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\MyPersonalProject\DesignModel\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\MyPersonalProject\DesignModel\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\MyPersonalProject\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\MyPersonalProject\DesignModel\AbstractFactory\obj\Debug\AbstractFactory.pdb

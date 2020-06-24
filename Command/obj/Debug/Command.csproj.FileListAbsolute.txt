@@ -4,3 +4,9 @@ E:\C#\Program\DesignModel\Command\bin\Debug\Command.pdb
 E:\C#\Program\DesignModel\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
 E:\C#\Program\DesignModel\Command\obj\Debug\Command.exe
 E:\C#\Program\DesignModel\Command\obj\Debug\Command.pdb
+E:\MyPersonalProject\DesignModel\Command\bin\Debug\Command.exe.config
+E:\MyPersonalProject\DesignModel\Command\bin\Debug\Command.exe
+E:\MyPersonalProject\DesignModel\Command\bin\Debug\Command.pdb
+E:\MyPersonalProject\DesignModel\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Command\obj\Debug\Command.exe
+E:\MyPersonalProject\DesignModel\Command\obj\Debug\Command.pdb

@@ -4,3 +4,9 @@ E:\C#\Program\DesignModel\Proxy\bin\Debug\Proxy.pdb
 E:\C#\Program\DesignModel\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
 E:\C#\Program\DesignModel\Proxy\obj\Debug\Proxy.exe
 E:\C#\Program\DesignModel\Proxy\obj\Debug\Proxy.pdb
+E:\MyPersonalProject\DesignModel\Proxy\bin\Debug\Proxy.exe.config
+E:\MyPersonalProject\DesignModel\Proxy\bin\Debug\Proxy.exe
+E:\MyPersonalProject\DesignModel\Proxy\bin\Debug\Proxy.pdb
+E:\MyPersonalProject\DesignModel\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Proxy\obj\Debug\Proxy.exe
+E:\MyPersonalProject\DesignModel\Proxy\obj\Debug\Proxy.pdb

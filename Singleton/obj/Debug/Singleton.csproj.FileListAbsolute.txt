@@ -5,3 +5,10 @@ E:\C#\Program\DesignModel\Singleton\obj\Debug\Singleton.csprojAssemblyReference.
 E:\C#\Program\DesignModel\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 E:\C#\Program\DesignModel\Singleton\obj\Debug\Singleton.exe
 E:\C#\Program\DesignModel\Singleton\obj\Debug\Singleton.pdb
+E:\MyPersonalProject\DesignModel\Singleton\bin\Debug\Singleton.exe.config
+E:\MyPersonalProject\DesignModel\Singleton\bin\Debug\Singleton.exe
+E:\MyPersonalProject\DesignModel\Singleton\bin\Debug\Singleton.pdb
+E:\MyPersonalProject\DesignModel\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+E:\MyPersonalProject\DesignModel\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\MyPersonalProject\DesignModel\Singleton\obj\Debug\Singleton.exe
+E:\MyPersonalProject\DesignModel\Singleton\obj\Debug\Singleton.pdb
