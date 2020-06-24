@@ -1,0 +1,6 @@
+E:\C#\Program\DesignModel\Iterator\bin\Debug\Iterator.exe.config
+E:\C#\Program\DesignModel\Iterator\bin\Debug\Iterator.exe
+E:\C#\Program\DesignModel\Iterator\bin\Debug\Iterator.pdb
+E:\C#\Program\DesignModel\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+E:\C#\Program\DesignModel\Iterator\obj\Debug\Iterator.exe
+E:\C#\Program\DesignModel\Iterator\obj\Debug\Iterator.pdb

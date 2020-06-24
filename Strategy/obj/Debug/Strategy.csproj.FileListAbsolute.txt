@@ -1,0 +1,6 @@
+E:\C#\Program\DesignModel\Strategy\bin\Debug\Strategy.exe.config
+E:\C#\Program\DesignModel\Strategy\bin\Debug\Strategy.exe
+E:\C#\Program\DesignModel\Strategy\bin\Debug\Strategy.pdb
+E:\C#\Program\DesignModel\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+E:\C#\Program\DesignModel\Strategy\obj\Debug\Strategy.exe
+E:\C#\Program\DesignModel\Strategy\obj\Debug\Strategy.pdb

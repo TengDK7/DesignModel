@@ -1,0 +1,6 @@
+E:\C#\Program\DesignModel\Command\bin\Debug\Command.exe.config
+E:\C#\Program\DesignModel\Command\bin\Debug\Command.exe
+E:\C#\Program\DesignModel\Command\bin\Debug\Command.pdb
+E:\C#\Program\DesignModel\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+E:\C#\Program\DesignModel\Command\obj\Debug\Command.exe
+E:\C#\Program\DesignModel\Command\obj\Debug\Command.pdb

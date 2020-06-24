@@ -1,0 +1,7 @@
+E:\C#\Program\DesignModel\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+E:\C#\Program\DesignModel\SimpleFactory\bin\Debug\SimpleFactory.exe
+E:\C#\Program\DesignModel\SimpleFactory\bin\Debug\SimpleFactory.pdb
+E:\C#\Program\DesignModel\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+E:\C#\Program\DesignModel\SimpleFactory\obj\Debug\SimpleFactory.exe
+E:\C#\Program\DesignModel\SimpleFactory\obj\Debug\SimpleFactory.pdb
+E:\C#\Program\DesignModel\SimpleFactory\obj\Debug\SimpleFactory.csprojAssemblyReference.cache

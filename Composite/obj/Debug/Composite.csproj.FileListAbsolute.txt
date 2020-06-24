@@ -1,0 +1,6 @@
+E:\C#\Program\DesignModel\Composite\bin\Debug\Composite.exe.config
+E:\C#\Program\DesignModel\Composite\bin\Debug\Composite.exe
+E:\C#\Program\DesignModel\Composite\bin\Debug\Composite.pdb
+E:\C#\Program\DesignModel\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+E:\C#\Program\DesignModel\Composite\obj\Debug\Composite.exe
+E:\C#\Program\DesignModel\Composite\obj\Debug\Composite.pdb

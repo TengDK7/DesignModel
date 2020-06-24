@@ -1,0 +1,6 @@
+E:\C#\Program\DesignModel\Template\bin\Debug\Template.exe.config
+E:\C#\Program\DesignModel\Template\bin\Debug\Template.exe
+E:\C#\Program\DesignModel\Template\bin\Debug\Template.pdb
+E:\C#\Program\DesignModel\Template\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+E:\C#\Program\DesignModel\Template\obj\Debug\Template.exe
+E:\C#\Program\DesignModel\Template\obj\Debug\Template.pdb
