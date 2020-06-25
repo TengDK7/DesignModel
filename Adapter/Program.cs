@@ -10,6 +10,14 @@ namespace Adapter
     {
         static void Main(string[] args)
         {
+            ObjectSearch hr = new ObjectSearch();
+            List<int> source = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            var tar = hr.Search(source, 7);
+            var tarstr = hr.Search("searchstring", "rc");
+            source.ForEach(it => Console.Write(it.ToString() + " "));
+            Console.WriteLine($"中的7位于第{tar}");
+            Console.WriteLine($"searchstring中的rc位于第{tarstr}");
+            Console.ReadKey();
         }
     }
 }

@@ -10,6 +10,12 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
+            var c1 = AppleCompany.Inst;
+            c1.MakePhone();
+            var c2 = AppleCompany.Inst;
+            c2.MakePC();
+            Console.WriteLine($"两次制造商是否相同：{c1 == c2}");
+            Console.ReadKey();
         }
     }
 }
