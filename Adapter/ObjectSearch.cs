@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    class ObjectSearch
+    interface Format
+    {
+        int Search(List<int> list, int target);
+        int Search(string source, string target);
+    }
+    class ObjectSearch:Format
     {
         private IntSearch intSearch;
         private StringSearch stringSearch;
