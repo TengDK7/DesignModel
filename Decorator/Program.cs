@@ -10,6 +10,11 @@ namespace Decorator
     {
         static void Main(string[] args)
         {
+            MyControl ctr = new MyButton();
+            ctr = new Background(ctr);//ctr->MyButton
+            ctr = new ForeColor(ctr);//ctr->Background
+            ctr.Display();//ForeColor.Display->Background.Display->MyButton.Display
+            Console.ReadKey();
         }
     }
 }
