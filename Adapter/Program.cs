@@ -8,6 +8,7 @@ namespace Adapter
 {
     class Program
     {
+        //适配器模式用于为满足（功能需要/方便使用）而整合现有功能接口
         static void Main(string[] args)
         {
             ObjectSearch hr = new ObjectSearch();

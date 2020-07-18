@@ -8,6 +8,7 @@ namespace Decorator
 {
     class Program
     {
+        //装饰模式：装饰对象与待装饰对象继承自同一个父类，为了可以统一处理装饰前后的对象；装饰对象维护一个待装饰对象
         static void Main(string[] args)
         {
             MyControl ctr = new MyButton();

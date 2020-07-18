@@ -6,6 +6,7 @@ namespace Command
 {
     class Program
     {
+        //命令模式 一个对象维护一个命令，一个命令维护一个具体功能，对象可触发命令来执行具体功能
         static void Main(string[] args)
         {
             NormalButton button = new NormalButton();

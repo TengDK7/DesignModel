@@ -6,6 +6,7 @@ namespace Bridge
 {
     class Program
     {
+        //桥接模式主要是将一个复杂对象提取出两个独立变化的维度拆分成两个对象，然后靠内部引用关联
         static void Main(string[] args)
         {
             Pen pen = new Brush();

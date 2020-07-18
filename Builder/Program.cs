@@ -6,6 +6,7 @@ namespace Builder
 {
     class Program
     {
+        //建造者模式用于创建 一个复杂产品
         static void Main(string[] args)
         {
             Builder builder = new MiBuilder();

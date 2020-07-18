@@ -8,6 +8,7 @@ namespace ChainOfResponsibility
 {
     class Program
     {
+        //职责链模式将相关对象链接成一条链，使用对象功能时可自动传递给链上的下一个对象，而不用手动每个都调用
         static void Main(string[] args)
         {
             RelatedPerson p1, p2, p3, p4;

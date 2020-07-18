@@ -7,6 +7,7 @@ namespace FactoryMethod
 {
     class Program
     {
+        //一个具体工厂创建一个具体产品
         static void Main(string[] args)
         {
             FruitFactory factory;

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
+    //组合模式用于创建一棵树结构，可以统一对待中间节点与叶子节点
     class Program
     {
         static void Main(string[] args)
