@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Iterator
-{
+{//迭代器模式：提供一种方法顺序的访问一个聚合对象中的各个元素，而不用暴露该对象的内部表示
     class Program
     {
         static void Main(string[] args)

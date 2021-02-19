@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Flyweight
-{
+{//享元模式：运用共享技术有效的支持大量细粒度对象的复用
     class Program
     {
         static void Main(string[] args)

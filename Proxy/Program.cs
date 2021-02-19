@@ -3,7 +3,7 @@ using System.Configuration;
 using System.Reflection;
 
 namespace Proxy
-{
+{//代理模式：给某一对象提供一个代理或占位符，并由代理对象来控制对原对象的访问。
     class Program
     {
         static void Main(string[] args)
